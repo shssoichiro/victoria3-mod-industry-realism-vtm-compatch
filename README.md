@@ -2,7 +2,7 @@
 
 ![Preview](thumbnail.png)
 
-**Tested With V3 Version: 1.6.2**
+**Tested With V3 Version: 1.7.5**
 
 Compatibility patch between Industry Realism and Victoria Tweaks Mod.
 
